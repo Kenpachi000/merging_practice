@@ -13,6 +13,10 @@ public class Test {
         return;
     }
 
+    public void subtract( ) {
+        return;
+    }
+
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
