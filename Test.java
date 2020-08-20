@@ -4,17 +4,21 @@ public class Test {
 
     public static int addNumbers(int a, int b) {
                 // store the 2 numbers from parameter and then add them and return them
-                int x = a;
-                int y = b;
-                return x+y;
+        return 600;
+
+        // vroom vroom
     }
 
     public void newMethodFromGen( ) {
+
+        // branch branch
+        //hello
         return;
     }
 
     public void subtract( ) {
-        return;
+        // this is from subtract brannch
+        // subtract branch
     }
 
     public static void main(String[] args) {
